@@ -12,8 +12,9 @@ Testado no Firefox e Chrome
 
 #### Abaixo as instruções para execução
 
-```
-# Inicializa server.js que contem a rota POST /upload
+```bash
+
+# Inicializando server.js que contem a rota POST /upload
 
 
 $ cd server/
