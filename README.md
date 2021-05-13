@@ -14,8 +14,8 @@ Testado no Firefox e Chrome
 
 ```bash
 
-# Inicializando server.js que contem a rota POST /upload
 
+# Inicializando server.js que contem a rota POST /upload
 
 $ cd server/
 $ npm install 
